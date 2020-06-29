@@ -12,5 +12,3 @@ Nevus class. We had about 3 times less Images of Melanoma in the Training datase
 Testing dataset had equal percentages of all the classes. That is why training loss was way smaller
 than the testing loss.
 
-Best accuracy achieved:-
-Training Set:86%    Validation Set:74%    Test set:72.5%
