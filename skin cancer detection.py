@@ -257,7 +257,3 @@ for index in range(len(_pred)):
       else:
         true.append(0)
 print("Test Set Accuracy {}%".format((sum(true)/len(true))*100))
-
-"""**Results:-
-From all the three methods, the Xception model with Transfer Learning performed the best with ~72.3% accuracy on the test set.**
-"""
